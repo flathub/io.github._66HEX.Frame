@@ -38,9 +38,9 @@ modules:
       - install -Dm644 frame-app/resources/app-icons/icon.png /app/share/icons/hicolor/512x512/apps/io.github._66HEX.Frame.png
     sources:
       - type: archive
-        url: 'https://github.com/66HEX/frame/releases/download/0.32.0/frame-0.32.0-source.tar.gz'
-        sha256: '8b9d12061508bf10f6113170cf37298c682f68dd13fce0e0a11cc3e1f3da73ce'
+        url: 'https://github.com/66HEX/frame/releases/download/0.33.0/frame-0.33.0-source.tar.gz'
+        sha256: 'ea726ffe3853dd96a37ab35363d52b5d739fda3aaa2c7349c14174e8f06d09fe'
       - type: archive
-        url: 'https://github.com/66HEX/frame/releases/download/0.32.0/frame-0.32.0-cargo-vendor.tar.gz'
-        sha256: '5c100740f9bfd40ca8184660f0b85b42d93d23b7929c72181aef9014f2829161'
+        url: 'https://github.com/66HEX/frame/releases/download/0.33.0/frame-0.33.0-cargo-vendor.tar.gz'
+        sha256: '79a000be3c9f1caf270a51c69b1d57e87cf30650f4768aa15ed6cc9149eb6d9b'
         dest: cargo-vendor
